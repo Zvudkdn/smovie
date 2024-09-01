@@ -11,7 +11,6 @@ const Catalogue = ({
     tendingTV: any;
     DiscoverBollywoodMovies: any;
     DiscoverTv: any;
-    anime: any;
   };
 }) => {
   return (
