@@ -50,7 +50,7 @@ const Catalogue = ({
       </Slider>
 
       {/* anime TV */}
-      { <Slider title="anime">
+      {/* <Slider title="anime">
         {data.anime?.results?.map((tv: any) => {
           return (
             <SwiperSlide key={tv?.id}>
@@ -58,7 +58,7 @@ const Catalogue = ({
             </SwiperSlide>
           );
         })}
-      </Slider> }
+      </Slider> */}
     </div>
   );
 };
