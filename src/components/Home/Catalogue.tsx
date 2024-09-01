@@ -47,17 +47,6 @@ const Catalogue = ({
           );
         })}
       </Slider>
-
-      {/* anime TV */}
-      {/* <Slider title="anime">
-        {data.anime?.results?.map((tv: any) => {
-          return (
-            <SwiperSlide key={tv?.id}>
-              <Card media={tv} />
-            </SwiperSlide>
-          );
-        })}
-      </Slider> */}
     </div>
   );
 };
