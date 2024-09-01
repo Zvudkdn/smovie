@@ -11,6 +11,7 @@ const Catalogue = ({
     tendingTV: any;
     DiscoverBollywoodMovies: any;
     DiscoverTv: any;
+    anime: any;
   };
 }) => {
   return (
@@ -49,7 +50,7 @@ const Catalogue = ({
       </Slider>
 
       {/* Discover TV */}
-      {/* <Slider title="Discover TV">
+      { <Slider title="Discover TV">
         {data.DiscoverTv?.results?.map((tv: any) => {
           return (
             <SwiperSlide key={tv?.id}>
@@ -57,7 +58,7 @@ const Catalogue = ({
             </SwiperSlide>
           );
         })}
-      </Slider> */}
+      </Slider> }
     </div>
   );
 };
