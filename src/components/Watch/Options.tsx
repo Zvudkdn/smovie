@@ -23,7 +23,7 @@ const Options = () => {
               className="px-1 bg-gray-900 text-center  hover:bg-gray-600 rounded-lg"
               value="8stream"
             >
-              8 Stream
+             server 1
             </option>
             <option
               className="px-1 bg-gray-900 text-center  hover:bg-gray-600 rounded-lg "
