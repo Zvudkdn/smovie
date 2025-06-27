@@ -28,7 +28,7 @@ This is a free Movies/Series search engine built with Next.js and powered by the
    ```bash
    TMDB_KEY = TMDB key # get it from https://developer.themoviedb.org/reference/intro/getting-started
    
-   STREAM_API = your8StreamUrl.com/api/v1  # 8stream api URL, get it from https://github.com/himanshu8443/8StreamApi
+   STREAM_API = /api/v1  # s movie api URL, get it from 
 
    CONSUMET_API = Consumet Api url # get it from https://github.com/consumet/api.consumet.org
    ```
